@@ -1,7 +1,7 @@
 
 # Polityka prywatności — SwiftOCR
 
-**Data ostatniej aktualizacji:** 30.05.2026
+**Data ostatniej aktualizacji:** 31.05.2026
 
 **Wydawca:** Marcin
 **Kontakt:** m.quuiz@gmail.com
