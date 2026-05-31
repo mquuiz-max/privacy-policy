@@ -62,7 +62,7 @@ Masz prawo do:
 - sprzeciwu,
 - wniesienia skargi do UODO (uodo.gov.pl).
 
-Kontakt: **[TWOJ@EMAIL.PL]**
+Kontakt: m.quuiz@gmail.com
 
 ## 9. Dzieci
 
