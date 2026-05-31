@@ -1,10 +1,10 @@
 
 # Polityka prywatności — SwiftOCR
 
-**Data ostatniej aktualizacji:** [UZUPEŁNIJ DATĘ, np. 30.05.2026]
+**Data ostatniej aktualizacji:** 30.05.2026
 
-**Wydawca:** [TWOJE IMIĘ / NAZWA FIRMY]  
-**Kontakt:** [TWOJ@EMAIL.PL]
+**Wydawca:** Marcin
+**Kontakt:** m.quuiz@gmail.com
 
 ---
 
